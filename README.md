@@ -12,9 +12,9 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<h1 align="center"> BIENVENIDOS A MI PERFIL DE GITHUB 
+<h1 align="center"> WELCOME TO MY GITHUB PROFILE
 <h1 align="center"> 👋, I'm NAOMI GUAJAN </h1>
-<h3 align="center">Student de PROGRAMACION🌟.</h3>
+<h3 align="center">PROGRAMMING STUDENT🌟.</h3>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
